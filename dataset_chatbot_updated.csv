@@ -1,0 +1,101 @@
+;ID_Karyawan;Jabatan;Department;Jatah_Cuti;Cuti_Terpakai;Riwayat_Pengajuan_Cuti;Status Gajian
+0;531;Staff Keuangan;Keuangan;12;2;Cuti 1: 1 hari, 2025-03-02;
+1;875;Mandor Panen;Produksi;12;5;Cuti 1: 1 hari, 2025-01-26;
+2;759;Karyawan Pabrik;Pengolahan;12;5;Cuti 1: 1 hari, 2025-01-05;
+3;302;Asisten Pabrik;Pengolahan;12;3;Cuti 1: 1 hari, 2025-01-07;
+4;144;Mandor Panen;Produksi;12;5;Cuti 1: 1 hari, 2025-01-25;
+5;407;Mandor Panen;Produksi;12;5;Cuti 1: 1 hari, 2025-01-08;
+6;689;Karyawan Panen;Produksi;12;6;Cuti 1: 1 hari, 2025-01-19;
+7;354;Staff Keuangan;Keuangan;12;3;Cuti 1: 1 hari, 2025-01-08;
+8;334;Karyawan Pabrik;Pengolahan;12;5;Cuti 1: 1 hari, 2025-01-18;
+9;435;Karyawan Panen;Produksi;12;3;Cuti 1: 1 hari, 2025-01-05;
+10;866;Mandor Panen;Produksi;12;5;Cuti 1: 1 hari, 2025-01-14;
+11;822;Mandor Panen;Produksi;12;3;Cuti 1: 1 hari, 2025-01-13;
+12;627;Kepala Logistik;Logistik;12;2;Cuti 1: 1 hari, 2025-03-05;
+13;251;Mandor Panen;Produksi;12;6;Cuti 1: 1 hari, 2025-01-05;
+14;825;Karyawan Panen;Produksi;12;1;Cuti 1: 1 hari, 2025-03-05;Done
+15;587;Karyawan Panen;Produksi;12;0;Anda belum memiliki riwayat pengajuan atau 0 cuti terpakai;Done
+16;105;Mandor Panen;Produksi;12;6;Cuti 1: 1 hari, 2025-01-19;
+17;919;Karyawan Panen;Produksi;12;0;Anda belum memiliki riwayat pengajuan atau 0 cuti terpakai;Done
+18;166;Asisten Kebun;Produksi;12;3;Cuti 1: 1 hari, 2025-02-10;
+19;296;Karyawan Pabrik;Pengolahan;12;6;Cuti 1: 1 hari, 2025-01-04;
+20;696;Asisten Kebun;Produksi;12;3;Cuti 1: 1 hari, 2025-01-02;
+21;650;Asisten Pabrik;Pengolahan;12;2;Cuti 1: 1 hari, 2025-03-01;
+22;159;Driver;Transportasi;12;2;Cuti 1: 1 hari, 2025-01-29;
+23;932;Karyawan Panen;Produksi;12;5;Cuti 1: 1 hari, 2025-01-05;
+24;951;Driver;Transportasi;12;3;Cuti 1: 1 hari, 2025-01-23;
+25;261;Karyawan Panen;Produksi;12;4;Cuti 1: 1 hari, 2025-01-10;
+26;594;Driver;Transportasi;12;6;Cuti 1: 1 hari, 2025-01-17;
+27;936;Karyawan Panen;Produksi;12;5;Cuti 1: 1 hari, 2025-01-06;
+28;459;Karyawan Panen;Produksi;12;6;Cuti 1: 1 hari, 2025-01-10;
+29;201;Karyawan Panen;Produksi;12;6;Cuti 1: 1 hari, 2025-01-16;
+30;308;Karyawan panen;Produksi;12;5;Cuti 1: 1 hari, 2025-01-02;
+31;193;Asisten Kebun;Produksi;12;4;Cuti 1: 1 hari, 2025-01-13;
+32;979;Karyawan Panen;Produksi;12;1;Cuti 1: 1 hari, 2025-03-16;Done
+33;366;Staff Keuangan;Keuangan;12;1;Cuti 1: 1 hari, 2025-01-11;Done
+34;537;Driver;Transportasi;12;6;Cuti 1: 1 hari, 2025-01-02;
+35;929;Karyawan Panen;Produksi;12;0;Anda belum memiliki riwayat pengajuan atau 0 cuti terpakai;Done
+36;101;Karyawan Panen;Produksi;12;6;Cuti 1: 1 hari, 2025-01-01;
+37;171;Karyawan Panen;Produksi;12;3;Cuti 1: 1 hari, 2025-01-02;
+38;426;Karyawan Panen;Produksi;12;0;Anda belum memiliki riwayat pengajuan atau 0 cuti terpakai;Done
+39;753;Karyawan Pabrik;Pengolahan;12;1;Cuti 1: 1 hari, 2025-03-21;Done
+40;398;Karyawan Pabrik;Pengolahan;12;3;Cuti 1: 1 hari, 2025-01-01;
+41;935;Staff Logistik;Logistik;12;6;Cuti 1: 1 hari, 2025-01-12;
+42;282;Karyawan Panen;Produksi;12;3;Cuti 1: 1 hari, 2025-01-18;
+43;139;Karyawan Panen;Produksi;12;5;Cuti 1: 1 hari, 2025-01-23;
+44;925;Karyawan Pabrik;Pengolahan;12;0;Anda belum memiliki riwayat pengajuan atau 0 cuti terpakai;Done
+45;353;Karyawan Panen;Produksi;12;3;Cuti 1: 1 hari, 2025-01-03;
+46;995;Staff Logistik;Logistik;12;1;Cuti 1: 1 hari, 2025-04-03;Done
+47;491;Karyawan Panen;Produksi;12;6;Cuti 1: 1 hari, 2025-01-21;
+48;883;Karyawan Panen;Produksi;12;6;Cuti 1: 1 hari, 2025-01-15;
+49;789;Driver;Transportasi;12;3;Cuti 1: 1 hari, 2025-02-11;
+50;877;Karyawan Panen;Produksi;12;6;Cuti 1: 1 hari, 2025-01-04;
+51;689;Staff Humas;Humas;12;4;Cuti 1: 1 hari, 2025-01-04;
+52;100;Karyawan Panen;Produksi;12;0;Anda belum memiliki riwayat pengajuan atau 0 cuti terpakai;Done
+53;496;Driver;Transportasi;12;2;Cuti 1: 1 hari, 2025-01-10;
+54;918;Staff Keuangan;Keuangan;12;4;Cuti 1: 1 hari, 2025-01-22;
+55;876;Karyawan Panen;Produksi;12;0;Anda belum memiliki riwayat pengajuan atau 0 cuti terpakai;Done
+56;393;Karyawan Panen;Produksi;12;6;Cuti 1: 1 hari, 2025-01-07;
+57;936;Karyawan Panen;Produksi;12;1;Cuti 1: 1 hari, 2025-01-29;Done
+58;888;Staff Humas;Humas;12;0;Anda belum memiliki riwayat pengajuan atau 0 cuti terpakai;Done
+59;779;Karyawan Pabrik;Pengolahan;12;5;Cuti 1: 1 hari, 2025-01-02;
+60;808;Driver;Transportasi;12;1;Cuti 1: 1 hari, 2025-04-24;Done
+61;295;Karyawan Panen;Produksi;12;0;Anda belum memiliki riwayat pengajuan atau 0 cuti terpakai;Done
+62;933;Karyawan Panen;Produksi;12;1;Cuti 1: 1 hari, 2025-03-07;Done
+63;533;Karyawan Panen;Produksi;12;1;Cuti 1: 1 hari, 2025-04-16;Done
+64;122;Karyawan pabrik;Pengolahan;12;3;Cuti 1: 1 hari, 2025-01-02;
+65;540;Karyawan Pabrik;Pengolahan;12;5;Cuti 1: 1 hari, 2025-01-11;
+66;479;Karyawan Pabrik;Pengolahan;12;3;Cuti 1: 1 hari, 2025-02-12;
+67;149;Driver;Transportasi;12;0;Anda belum memiliki riwayat pengajuan atau 0 cuti terpakai;Done
+68;273;Staff Humas;Humas;12;6;Cuti 1: 1 hari, 2025-01-07;
+69;273;Karyawan Pabrik;Pengolahan;12;3;Cuti 1: 1 hari, 2025-02-08;
+70;684;Staff Logistik;Logistik;12;3;Cuti 1: 1 hari, 2025-01-14;
+71;132;Staff Humas;Humas;12;6;Cuti 1: 1 hari, 2025-01-17;
+72;140;Karyawan Panen;Produksi;12;4;Cuti 1: 1 hari, 2025-01-04;
+73;582;Karyawan Pabrik;Pengolahan;12;4;Cuti 1: 1 hari, 2025-01-14;
+74;560;Karyawan Panen;Produksi;12;5;Cuti 1: 1 hari, 2025-01-19;
+75;338;Karyawan Pabrik;Pengolahan;12;3;Cuti 1: 1 hari, 2025-01-13;
+76;847;Karyawan Pabrik;Pengolahan;12;6;Cuti 1: 1 hari, 2025-01-01;
+77;738;Mandor Pabrik;Pengolahan;12;0;Anda belum memiliki riwayat pengajuan atau 0 cuti terpakai;Done
+78;512;Karyawan Panen;Produksi;12;3;Cuti 1: 1 hari, 2025-01-29;
+79;180;Staff HR;SDM;12;2;Cuti 1: 1 hari, 2025-01-16;
+80;171;Karyawan Panen;Produksi;12;3;Cuti 1: 1 hari, 2025-01-19;
+81;756;Karyawan Panen;Produksi;12;0;Anda belum memiliki riwayat pengajuan atau 0 cuti terpakai;Done
+82;348;Kepala Keuangan;Keuangan;12;2;Cuti 1: 1 hari, 2025-01-04;
+83;986;Karyawan panen;Produksi;12;1;Cuti 1: 1 hari, 2025-03-09;Done
+84;390;Karyawan Panen;Produksi;12;2;Cuti 1: 1 hari, 2025-01-23;
+85;111;Karyawan Panen;Produksi;12;2;Cuti 1: 1 hari, 2025-01-20;
+86;259;Staff Rekrutmen;SDM;12;0;Anda belum memiliki riwayat pengajuan atau 0 cuti terpakai;Done
+87;448;Karyawan Panen;Produksi;12;3;Cuti 1: 1 hari, 2025-02-04;
+88;790;Kepala HR;SDM;12;0;Anda belum memiliki riwayat pengajuan atau 0 cuti terpakai;Done
+89;896;Karyawan Panen;Produksi;12;2;Cuti 1: 1 hari, 2025-02-10;
+90;219;Staff Logistik;Logistik;12;2;Cuti 1: 1 hari, 2025-02-10;
+91;601;Staff HR;SDM;12;6;Cuti 1: 1 hari, 2025-01-22;
+92;255;Karyawan Pabrik;Pengolahan;12;5;Cuti 1: 1 hari, 2025-01-24;
+93;187;Mandor Pabrik;Pengolahan;12;1;Cuti 1: 1 hari, 2025-01-01;Done
+94;399;Kepala Transportasi;Transportasi;12;0;Anda belum memiliki riwayat pengajuan atau 0 cuti terpakai;Done
+95;939;Mandor Pabrik;Pengolahan;12;3;Cuti 1: 1 hari, 2025-01-14;
+96;862;Staff Rekrutmen;SDM;12;0;Anda belum memiliki riwayat pengajuan atau 0 cuti terpakai;Done
+97;522;Kepala Humas;Humas;12;3;Cuti 1: 1 hari, 2025-01-14;
+98;277;Staff Transportasi;Transportasi;12;2;Cuti 1: 1 hari, 2025-03-05;
+99;921;Karyawan Panen;Produksi;12;2;Cuti 1: 1 hari, 2025-01-19;

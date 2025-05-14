@@ -1,0 +1,101 @@
+﻿Id_Pertanyaan;Pertanyaan;Jawaban;Kategori
+1;Berapa cuti saya?;Sisa cuti [Sisa_Cuti] hari;Cuti
+2;Berapa cuti tersisa?;Sisa cuti [Sisa_Cuti] hari;Cuti
+3;Kapan bisa cuti;sisa cuti [Sisa_Cuti} hari, silahkan hubungi HR untuk informasi lebih lanjut;Cuti
+4;bisa cuti minggu ini?;sisa cuti [Sisa_Cuti} hari, silahkan hubungi HR untuk informasi lebih lanjut;Cuti
+5;Cuti tahunan apakah sudah masuk?;Jatah 12 hari mulai Januari 2025;Cuti
+6;Jatah cuti 2025 berapa?;Jatah 12 hari mulai Januari 2026;Cuti
+7;Kapan terakhir saya cuti?;Cek [Riwayat_Pengajuan_Cuti] di HRIS;Cuti
+8;Riwayat cuti saya apa?;Cek [Riwayat_Pengajuan_Cuti] di HRIS;Cuti
+9;Syarat cuti 3 hari apa?;Ajukan 7 hari sebelumnya;Cuti
+10;Cuti panjang syaratnya apa?;Ajukan 7 hari sebelumnya;Cuti
+11;Cuti saya berlaku sampai kapan?;Hingga 31 Desember 2025;Cuti
+12;Batas cuti tahun ini kapan?;Hingga 31 Desember 2025;Cuti
+13;Bisa cuti hari senin?;Bisa, cek sisa [Sisa_Cuti] hari;Cuti
+14;Cuti boleh hari jum'at?;Bisa, cek sisa [Sisa_Cuti] hari;Cuti
+15;Cara ajukan cuti gimana?;Akses HRIS, menu cuti;Cuti
+16;Prosedur cuti apa?;Akses HRIS, menu cuti;Cuti
+17;Apakah cuti bisa jadi uang?;Tidak, harus diambil sebelum 2025;Cuti
+18;Sisa cuti apakah bisa dicairkan?;Tidak, harus diambil sebelum 2026;Cuti
+19;Berapa cuti terpakai saya?;[Sisa_Cuti] hari terpakai;Cuti
+20;Cuti sudah dipakai berapa?;[Sisa_Cuti] hari terpakai;Cuti
+21;Cuti saya tinggal berapa?;Sisa [Sisa_Cuti] hari;Cuti
+22;Sisa cuti tahun ini?;Sisa [Sisa_Cuti] hari;Cuti
+23;Bisa cuti besok?;Hubungi HR, sisa [Sisa_Cuti] hari;Cuti
+24;Cuti minggu depan boleh?;Hubungi HR, sisa [Sisa_Cuti] hari;Cuti
+25;Cuti 2025 sudah aktif?;Jatah 12 hari mulai Januari 2025;Cuti
+26;Kapan cuti tahunan masuk?;Jatah 12 hari mulai Januari 2026;Cuti
+27;Terakhir cuti kapan?;Cek [Riwayat_Pengajuan_Cuti] di HRIS;Cuti
+28;Cuti sebelumnya kapan?;Cek [Riwayat_Pengajuan_Cuti] di HRIS;Cuti
+29;Apa syarat cuti lama?;Ajukan 7 hari sebelumnya;Cuti
+30;Syarat cuti berturut-turut;Ajukan 7 hari sebelumnya;Cuti
+31;Cuti kadaluwarsa kapan?;Hingga 31 Desember 2025;Cuti
+32;Sampai kapan cuti berlaku?;Hingga 31 Desember 2025;Cuti
+33;Cuti hari kerja boleh?;Bisa, cek sisa [Sisa_Cuti] hari;Cuti
+34;Boleh cuti hari Rabu?;Bisa, cek sisa [Sisa_Cuti] hari;Cuti
+35;Ajukan cuti lewat mana?;Akses HRIS, menu cuti;Cuti
+36;Gimana cara cuti?;Akses HRIS, menu cuti;Cuti
+37;Cuti diganti uang bisa?;Tidak, harus diambil sebelum 2025;Cuti
+38;Cuti sisa jadi uang?;Tidak, harus diambil sebelum 2026;Cuti
+39;Cuti yang terpakai berapa?;[Sisa_Cuti] hari terpakai;Cuti
+40;Berapa hari cuti sudah dipakai?;[Sisa_Cuti] hari terpakai;Cuti
+41;Kapan gajian bulan ini?;Tanggal 1 bulan ini;Gaji
+42;Gaji masuk kapan?;Tanggal 1 bulan ini;Gaji
+43;Slip gaji sudah ada?;Cek HRIS setelah tanggal 1;Gaji
+44;Slip gaji bulan ini mana?;Cek HRIS setelah tanggal 1;Gaji
+45;Bonus bulan ini ada?;Cek pengumuman HR;Gaji
+46;Kapan bonus diumumkan?;Cek pengumuman HR;Gaji
+47;Gaji saya belum masuk, kenapa?;Hubungi HR, gajian tanggal 1;Gaji
+48;Gaji telat masuk?;Hubungi HR, gajian tanggal 1;Gaji
+49;Cara cek gaji online?;Masuk HRIS, menu gaji;Gaji
+50;Gimana lihat slip gaji?;Masuk HRIS, menu gaji;Gaji
+51;Potongan gaji apa saja?;Cek slip gaji di HRIS;Gaji
+52;Pajak gaji berapa?;Cek slip gaji di HRIS;Gaji
+53;Kapan naik gaji?;Pengumuman Q4 2025;Gaji
+54;Kenaikan gaji kapan?;Pengumuman Q4 2025;Gaji
+55;Gaji bulan ini sudah masuk?;Sudah, cek HRIS tanggal 1;Gaji
+56;Gaji sudah ditransfer?;Sudah, cek HRIS tanggal 1;Gaji
+57;Absensi kemarin apa?;Cek HRIS untuk detail;Absensi
+58;Hadir kemarin ga?;Cek HRIS untuk detail;Absensi
+59;Lupa check-in tadi, apa kabar?;Ajukan koreksi ke HR;Absensi
+60;Absen tadi lupa, gimana?;Ajukan koreksi ke HR;Absensi
+61;Cara koreksi absen?;Ajukan koreksi ke HR dalam 3 hari;Absensi
+62;Gimana koreksi absen?;Ajukan koreksi ke HR dalam 3 hari;Absensi
+63;Jam kerja saya minggu ini?;Cek HRIS untuk total jam;Absensi
+64;Berapa jam kerja minggu ini?;Cek HRIS untuk total jam;Absensi
+65;Pelatihan apa minggu ini?;Pelatihan Excel: 15 Mei 2025;Pelatihan
+66;Training apa besok?;Pelatihan Excel: 15 Mei 2026;Pelatihan
+67;Sertifikat pelatihan kapan?;Dikirim via e-mail dalam 7 hari;Pelatihan
+68;Kapan sertifikat training?;Dikirim via e-mail dalam 7 hari;Pelatihan
+69;Jadwal pelatihan bulan ini?;Pelatihan Excel: 15 Mei 2025;Pelatihan
+70;Pelatihan apa bulan ini?;Pelatihan Excel: 15 Mei 2025;Pelatihan
+71;Boleh WFH kapan?;WFH Senin-Kamis, ajukan ke HR;Kebijakan
+72;Kapan bisa WFH?;WFH Senin-Kamis, ajukan ke HR;Kebijakan
+73;Dress code hari Jum'at?;Jum'at casual, cek kebijakan HR;Kebijakan
+74;Pakaian Jum'at apa?;Jum'at casual, cek kebijakan HR;Kebijakan
+75;Syarat reimburse di perjalanan?;Max Rp 500.000, ajukan ke HR;Kebijakan
+76;Reimburse dinas gimana?;Max Rp 500.000, ajukan ke HR;Kebijakan
+77;Cuti tinggal berapa hari?;Sisa [Sisa_Cuti] hari;Cuti
+78;Berapa sisa cuti saya?;Sisa [Sisa_Cuti] hari;Cuti
+79;Cuti minggu ini bisa?;Hubungi HR, sisa [Sisa_Cuti] hari;Cuti
+80;Boleh cuti besok?;Hubungi HR, sisa [Sisa_Cuti] hari;Cuti
+81;Cuti 2025 sudah masuk?;Jatah 12 hari mulai Januari 2025;Cuti
+82;Kapan jatah cuti aktif?;Jatah 12 hari mulai Januari 2025;Cuti
+83;Cuti terakhir saya kapan?;Cek [Riwayat_Pengajuan_Cuti] di HRIS;Cuti
+84;Kapan saya cuti sebelumnya?;Cek [Riwayat_Pengajuan_Cuti] di HRIS;Cuti
+85;Syarat cuti panjang apa?;Ajukan 7 hari sebelumnya;Cuti
+86;Apa aturan cuti 3 hari?;Ajukan 7 hari sebelumnya;Cuti
+87;Gaji bulan ini sudah ada?;Sudah, cek HRIS tanggal 1;Gaji
+88;Gaji sudah masuk belum?;Sudah, cek HRIS tanggal 1;Gaji
+89;Slip gaji dimana?;Cek HRIS setelah tanggal 1;Gaji
+90;Slip gaji bulan ini ada?;Cek HRIS setelah tanggal 1;Gaji
+91;Bonus apa bulan ini?;Cek pengumuman HR;Gaji
+92;Ada bonus gaji?;Cek pengumuman HR;Gaji
+93;Gaji kenapa belum masuk?;Hubungi HR, gajian tanggal 1;Gaji
+94;Gaji bulan ini telat?;Hubungi HR, gajian tanggal 1;Gaji
+95;Absensi saya kemarin?;Cek HRIS untuk detail;Absensi
+96;Saya hadir kemarin?;Cek HRIS untuk detail;Absensi
+97;Lupa absen tadi?;Ajukan koreksi ke HR;Absensi
+98;Tadi lupa Check-in?;Ajukan koreksi ke HR;Absensi
+99;WFH hari apa boleh?;WFH Senin-Kamis, ajukan ke HR;Kebijakan
+100;Hari apa bisa WFH?;WFH Senin-Kamis, ajukan ke HR;Kebijakan
